@@ -122,4 +122,4 @@ public class ConsolaUtils {
             // Si falla, no hacemos nada
         }
     }
-}   
+}

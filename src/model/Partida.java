@@ -12,4 +12,4 @@ public class Partida {
         this.ganada = ganada;
         this.fecha = LocalDate.now();
     }
-}   
+}

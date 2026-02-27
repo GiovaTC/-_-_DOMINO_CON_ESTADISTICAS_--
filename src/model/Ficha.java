@@ -18,4 +18,4 @@ public class Ficha {
     public String toString() {
         return "[" +  izquierda + "|" + derecha + "]";
     }
-}   
+}

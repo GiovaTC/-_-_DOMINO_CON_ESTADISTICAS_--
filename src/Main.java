@@ -6,4 +6,4 @@ public class Main {
         DominoGame game = new DominoGame();
         game.iniciar();
     }
-}   
+}

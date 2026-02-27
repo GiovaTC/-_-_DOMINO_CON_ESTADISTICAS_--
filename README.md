@@ -4,6 +4,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b4c1b6b5-e37a-4a97-93a9-e9ea9919c8cf" />    
 
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/87b0e64f-a881-42bf-b9c7-b75255f8d15f" />        
+
 Diseño **completo, academico y profesional** de un juego de **Domino con registro de estadísticas**, pensado para **proyectos universitarios** o **portafolio serio**, aplicando **arquitectura limpia** y **persistencia real** compatible con **Oracle 19c** .
 
 ---
